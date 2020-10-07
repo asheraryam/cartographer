@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/red_dirt_mud_01_diff_1k.png-13554eccb786ba32cb0fb22010aa6eee.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://example/textures/realistic/texturehaven/red_dirt_mud_01_1k_png/red_dirt_mud_01_diff_1k.png"
+dest_files=[ "res://.import/red_dirt_mud_01_diff_1k.png-13554eccb786ba32cb0fb22010aa6eee.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
