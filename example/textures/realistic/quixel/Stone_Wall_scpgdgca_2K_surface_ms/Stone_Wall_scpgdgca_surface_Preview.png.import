@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Stone_Wall_scpgdgca_surface_Preview.png-b86e678b1eec3f1bf4b3cd7b9d8fa1ec.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://example/textures/realistic/quixel/Stone_Wall_scpgdgca_2K_surface_ms/Stone_Wall_scpgdgca_surface_Preview.png"
+dest_files=[ "res://.import/Stone_Wall_scpgdgca_surface_Preview.png-b86e678b1eec3f1bf4b3cd7b9d8fa1ec.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
